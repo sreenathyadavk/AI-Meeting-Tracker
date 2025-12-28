@@ -222,9 +222,7 @@ Future MVP Features:
 ## 📝 License
 
 MIT
-
-## 🙏 Credits
-
+##
 Built with:
 - [faster-whisper](https://github.com/guillaumekln/faster-whisper) - Optimized Whisper
 - [Ollama](https://ollama.com/) - Local LLM runtime
